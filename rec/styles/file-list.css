@@ -1,5 +1,5 @@
 /* all */
-body{
+body {
     align-items: center;
     text-align: center;
     margin: 0;
@@ -10,6 +10,10 @@ body{
 
 /* banner1 */
 .banner1 {
+    margin: auto;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
     background-image: url(/rec/img/Banner\ Image.png);
     background-repeat: no-repeat;
     font-family: Merriweather;
@@ -50,7 +54,7 @@ body{
 
 .banner2-dec-1 {
     color: #F00;
-    
+
     padding-top: 0px;
     padding-bottom: 16px;
     font-size: 24px;
@@ -68,7 +72,8 @@ body{
     font-weight: 700;
 
 }
-.banner2-img{
+
+.banner2-img {
     padding-bottom: 120px;
 }
 
