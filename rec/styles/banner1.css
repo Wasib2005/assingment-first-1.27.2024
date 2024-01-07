@@ -1,0 +1,23 @@
+.banner1 {
+    background-image: url(/rec/img/Banner\ Image.png);
+    background-repeat: no-repeat;
+    font-family: Merriweather;
+    background-position: center;
+}
+
+.banner1-title {
+    color: #FFF;
+    font-size: 32px;
+    padding: 177px 531px 16px 531px;
+    font-weight: 400;
+
+}
+
+.banner1-dec {
+    color: #FFF;
+    padding: 0PX 344PX 177PX 344PX;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+
+}
