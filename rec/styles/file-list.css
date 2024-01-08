@@ -279,7 +279,11 @@ body {
 }
 
 .banner6-con {
+    height: 1300px;
     font-family: Inter;
+    background-image: url(/rec/img/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
 }
 
 .banner6-text>h4 {
@@ -307,6 +311,24 @@ body {
     max-width: 1068px;
     margin: auto;
 }
+
+.banner6-img{
+    margin: auto;
+    max-width: 1320px;;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 64px;
+
+
+}
+
+.cuppon{
+    position: absolute;
+    padding-top: 150.17px;
+    padding-left: 746.74px;
+}
+
 
 
 
