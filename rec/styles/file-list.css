@@ -366,19 +366,76 @@ body {
     padding-bottom: 48px;
 }
 
-.banner7-imgs{
+.banner7-imgs {
     justify-content: space-between;
     padding-left: 0px;
     justify-content: space-between
 }
 
 
+.banner8-con {
+    margin: auto;
+    font-family: Inter;
+    width: 1320px;
+    border: 1px solid white;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding-bottom: 80px;
+}
 
+.banner8-con img {
+    padding-top: 80px;
+    padding-bottom: 40px;
 
+}
 
+.banner8-con h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 0px;
+    padding-bottom: 22px;
+}
 
+.banner8-con p {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: auto;
+    padding-top: 0px;
+    padding-bottom: 48px;
+}
 
+.email {
+    border: none;
+    width: 438px;
+    height: 72px;
+    border-radius: 50px 0 0 50px;
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 0px;
+}
 
+.Subscribe-button {
+    border: none;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-left: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
 
 
 /* online links */
