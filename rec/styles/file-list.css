@@ -5,8 +5,6 @@ body {
     margin: auto;
 
 }
-
-
 /* banner1 */
 .banner1 {
     margin: auto;
@@ -79,7 +77,7 @@ body {
     padding-bottom: 120px;
 }
 
-.banner3 {
+.banner3-con {
     display: flex;
     margin: auto;
     width: 1320px;
@@ -91,7 +89,7 @@ body {
     color: #FFF;
     text-align: left;
     align-items: center;
-    
+
     border: 1px solid;
     border-radius: 16px;
 }
@@ -140,19 +138,21 @@ body {
     text-transform: uppercase;
     background-color: transparent;
 
-    
+
 }
 
-.banner-3-img{
+.banner-3-img {
     display: flex;
-width: 319.83px;
-height: 464.662px;
-padding: 0.008px 0px 0px 0px;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-flex-shrink: 0;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
 }
+
+
 
 /* online links */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
