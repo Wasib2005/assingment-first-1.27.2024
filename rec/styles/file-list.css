@@ -5,6 +5,9 @@ body {
     margin: auto;
 
 }
+main{
+    padding-bottom: 120px;
+}
 
 /* banner1 */
 .banner1 {
@@ -436,6 +439,16 @@ body {
     font-weight: 600;
     text-transform: capitalize;
 }
+
+footer {
+    
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;
+    margin: auto;
+}
+
 
 
 /* online links */
