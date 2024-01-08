@@ -5,7 +5,8 @@ body {
     margin: auto;
 
 }
-main{
+
+main {
     padding-bottom: 120px;
 }
 
@@ -441,15 +442,66 @@ main{
 }
 
 footer {
-    
+    text-align: left;
     width: 1600px;
-    height: 609px;
     flex-shrink: 0;
     background: #070211;
     margin: auto;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFF;
+    padding: 120px 140px;
 }
 
+.foot {
+    display: flex;
+    justify-content: space-between;
+}
 
+.contact-link-img{
+    padding-top: 200px;
+}
+
+.contact-link{
+    display: inline;
+    padding-left: 24px;
+}
+
+.foot-con-1 {
+    width: 375px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.copy-right {
+    font-weight: 500;
+    padding-top: 260px
+}
+
+.contact {
+    padding-right: 24px
+}
+
+.contact-dec a{
+    text-decoration: none;
+    color: #FFF;
+
+}
+.contact-dec{
+    align-items: top;
+}
+
+.unsub{
+    padding-top: 260px;
+
+}
+
+.unsub a{
+    text-decoration: none;
+    color: #FFF
+}
 
 /* online links */
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
