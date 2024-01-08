@@ -16,7 +16,7 @@ main {
     max-width: 1320px;
     height: 600px;
     flex-shrink: 0;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/rec/img/Banner\ Image.png);
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../img/Banner\ Image.png);
     background-repeat: no-repeat;
     font-family: Merriweather;
     color: #FFF;
@@ -86,7 +86,7 @@ main {
     display: flex;
     margin: auto;
     max-width: 1320px;
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/rec/img/Vectorrr.png);
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../img/Vectorrr.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -285,7 +285,7 @@ main {
 .banner6-con {
     height: 1300px;
     font-family: Inter;
-    background-image: url(/rec/img/Rectangle\ 2.png);
+    background-image: url(../img/Rectangle\ 2.png);
     background-repeat: no-repeat;
     background-position: center bottom;
 }
