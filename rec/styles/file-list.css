@@ -9,7 +9,7 @@ body {
 /* banner1 */
 .banner1 {
     margin: auto;
-    width: 1320px;
+    max-width: 1320px;
     height: 600px;
     flex-shrink: 0;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/rec/img/Banner\ Image.png);
@@ -81,7 +81,7 @@ body {
 .banner3-con {
     display: flex;
     margin: auto;
-    width: 1320px;
+    max-width: 1320px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/rec/img/Vectorrr.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -101,7 +101,7 @@ body {
     padding-left: 126px;
 
     padding-bottom: 24px;
-    width: 642px;
+    max-width: 642px;
 
 
     font-size: 64px;
@@ -122,7 +122,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    width: 697px;
+    max-width: 697px;
 }
 
 .banner3-button {
@@ -144,7 +144,7 @@ body {
 
 .banner3-img {
     display: flex;
-    width: 319.83px;
+    max-width: 319.83px;
     height: 464.662px;
     padding: 0.008px 0px 0px 0px;
     flex-direction: column;
@@ -159,7 +159,7 @@ body {
     border-radius: 19px;
     margin: auto;
     margin-top: 120px;
-    width: 1320px;
+    max-width: 1320px;
     height: 482px;
     align-items: center;
     text-align: center;
@@ -202,7 +202,7 @@ body {
 .banner5-con {
     padding-top: 120px;
     display: flex;
-    width: 1320px;
+    max-width: 1320px;
     margin: auto;
     justify-content: space-between;
 
@@ -233,7 +233,7 @@ body {
 
 .banner5-info-1-p2 {
     padding-top: 0px;
-    width: 393px;
+    max-width: 393px;
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
@@ -275,8 +275,40 @@ body {
     font-weight: 400;
     line-height: 32px;
 
-    width: 276px;
+    max-width: 276px;
 }
+
+.banner6-con {
+    font-family: Inter;
+}
+
+.banner6-text>h4 {
+    padding-top: 120px;
+    padding-bottom: 16px;
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.banner6-text>h2 {
+    padding-top: 0px;
+    padding-bottom: 28px;
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.banner6-text>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    max-width: 1068px;
+    margin: auto;
+}
+
+
 
 
 
