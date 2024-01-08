@@ -156,6 +156,7 @@ body {
 .banner4-con {
 
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 19px;
     margin: auto;
     margin-top: 120px;
     width: 1320px;
@@ -166,6 +167,8 @@ body {
 }
 
 .banner4-info {
+    padding: 100px 386px 48px 385px;
+
     color: #F00;
 
     font-size: 32px;
@@ -184,12 +187,16 @@ body {
 }
 
 .banner4-button {
+    border-radius: 8px;
+    background: #F00;
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
     background-color: red;
-    border: none;
+    border: 1px solid white;
+    margin-top: 0px;
+    padding: 16px 32px
 }
 
 
